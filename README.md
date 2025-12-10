@@ -29,12 +29,6 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kubatoja&theme=React) [![](https://raw.githubusercontent.com/Kubatoja/Kubatoja/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kubatoja/Kubatoja/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
-
-
 
 
 
